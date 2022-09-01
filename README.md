@@ -1,1 +1,0 @@
-# kitchan_game
