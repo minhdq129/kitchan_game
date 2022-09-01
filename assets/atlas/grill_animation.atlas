@@ -1,0 +1,725 @@
+
+grill_animation.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+idle_2
+  rotate: false
+  xy: 2, 1641
+  size: 294, 400
+  orig: 320, 400
+  offset: 13, 0
+  index: 24
+idle_2
+  rotate: false
+  xy: 2, 1239
+  size: 294, 400
+  orig: 320, 400
+  offset: 13, 0
+  index: 29
+idle_2
+  rotate: false
+  xy: 2, 844
+  size: 294, 393
+  orig: 320, 400
+  offset: 13, 0
+  index: 23
+idle_2
+  rotate: false
+  xy: 2, 449
+  size: 294, 393
+  orig: 320, 400
+  offset: 13, 0
+  index: 28
+idle_2
+  rotate: false
+  xy: 2, 65
+  size: 294, 382
+  orig: 320, 400
+  offset: 13, 0
+  index: 22
+idle_2
+  rotate: true
+  xy: 298, 1747
+  size: 294, 382
+  orig: 320, 400
+  offset: 13, 0
+  index: 27
+idle_2
+  rotate: true
+  xy: 682, 1747
+  size: 294, 376
+  orig: 320, 400
+  offset: 13, 0
+  index: 32
+idle_2
+  rotate: true
+  xy: 1060, 1747
+  size: 294, 368
+  orig: 320, 400
+  offset: 13, 0
+  index: 21
+idle_2
+  rotate: true
+  xy: 1430, 1747
+  size: 294, 368
+  orig: 320, 400
+  offset: 13, 0
+  index: 26
+idle_2
+  rotate: false
+  xy: 298, 1377
+  size: 294, 368
+  orig: 320, 400
+  offset: 13, 0
+  index: 31
+idle_2
+  rotate: false
+  xy: 298, 1031
+  size: 308, 344
+  orig: 320, 400
+  offset: 6, 0
+  index: 6
+idle_2
+  rotate: false
+  xy: 594, 1386
+  size: 294, 359
+  orig: 320, 400
+  offset: 13, 0
+  index: 25
+idle_2
+  rotate: false
+  xy: 298, 670
+  size: 294, 359
+  orig: 320, 400
+  offset: 13, 0
+  index: 30
+idle_2
+  rotate: false
+  xy: 298, 328
+  size: 306, 340
+  orig: 320, 400
+  offset: 7, 0
+  index: 5
+idle_2
+  rotate: false
+  xy: 594, 676
+  size: 294, 353
+  orig: 320, 400
+  offset: 13, 0
+  index: 20
+idle_2
+  rotate: false
+  xy: 608, 1047
+  size: 303, 337
+  orig: 320, 400
+  offset: 8, 0
+  index: 4
+idle_2
+  rotate: false
+  xy: 890, 1408
+  size: 302, 337
+  orig: 320, 400
+  offset: 9, 0
+  index: 7
+idle_2
+  rotate: true
+  xy: 298, 25
+  size: 301, 334
+  orig: 320, 400
+  offset: 9, 0
+  index: 3
+idle_2
+  rotate: false
+  xy: 606, 336
+  size: 294, 338
+  orig: 320, 400
+  offset: 13, 0
+  index: 19
+idle_2
+  rotate: false
+  xy: 890, 715
+  size: 298, 330
+  orig: 320, 400
+  offset: 11, 0
+  index: 2
+idle_2
+  rotate: false
+  xy: 913, 1076
+  size: 297, 330
+  orig: 320, 400
+  offset: 11, 0
+  index: 8
+idle_2
+  rotate: false
+  xy: 1194, 1418
+  size: 296, 327
+  orig: 320, 400
+  offset: 12, 0
+  index: 1
+idle_2
+  rotate: false
+  xy: 1212, 1088
+  size: 294, 328
+  orig: 320, 400
+  offset: 13, 0
+  index: 34
+working
+  rotate: false
+  xy: 634, 2
+  size: 291, 332
+  orig: 320, 400
+  offset: 14, 0
+  index: 11
+working
+  rotate: false
+  xy: 902, 381
+  size: 291, 332
+  orig: 320, 400
+  offset: 14, 0
+  index: 9
+working
+  rotate: false
+  xy: 1190, 741
+  size: 290, 333
+  orig: 320, 400
+  offset: 15, 0
+  index: 10
+working
+  rotate: true
+  xy: 1492, 1454
+  size: 291, 331
+  orig: 320, 400
+  offset: 14, 0
+  index: 8
+working
+  rotate: false
+  xy: 927, 48
+  size: 291, 331
+  orig: 320, 400
+  offset: 14, 0
+  index: 12
+working
+  rotate: false
+  xy: 1195, 410
+  size: 292, 329
+  orig: 320, 400
+  offset: 14, 0
+  index: 6
+working
+  rotate: false
+  xy: 1482, 757
+  size: 292, 329
+  orig: 320, 400
+  offset: 14, 0
+  index: 14
+working
+  rotate: false
+  xy: 1508, 1122
+  size: 291, 330
+  orig: 320, 400
+  offset: 14, 0
+  index: 13
+working
+  rotate: false
+  xy: 1220, 78
+  size: 291, 330
+  orig: 320, 400
+  offset: 14, 0
+  index: 7
+working
+  rotate: false
+  xy: 1489, 427
+  size: 292, 328
+  orig: 320, 400
+  offset: 14, 0
+  index: 5
+working
+  rotate: false
+  xy: 1513, 97
+  size: 292, 328
+  orig: 320, 400
+  offset: 14, 0
+  index: 15
+
+grill_animation2.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+idle_1
+  rotate: false
+  xy: 296, 993
+  size: 294, 323
+  orig: 320, 400
+  offset: 13, 0
+  index: 38
+idle_1
+  rotate: false
+  xy: 298, 343
+  size: 294, 323
+  orig: 320, 400
+  offset: 13, 0
+  index: 1
+idle_1
+  rotate: false
+  xy: 591, 1645
+  size: 294, 323
+  orig: 320, 400
+  offset: 13, 0
+  index: 37
+idle_1
+  rotate: false
+  xy: 592, 670
+  size: 294, 323
+  orig: 320, 400
+  offset: 13, 0
+  index: 0
+idle_1
+  rotate: false
+  xy: 592, 670
+  size: 294, 323
+  orig: 320, 400
+  offset: 13, 0
+  index: 39
+idle_1
+  rotate: false
+  xy: 887, 1645
+  size: 294, 323
+  orig: 320, 400
+  offset: 13, 0
+  index: 36
+idle_1
+  rotate: false
+  xy: 888, 995
+  size: 294, 323
+  orig: 320, 400
+  offset: 13, 0
+  index: 2
+idle_1
+  rotate: false
+  xy: 1181, 671
+  size: 294, 322
+  orig: 320, 400
+  offset: 13, 0
+  index: 4
+idle_1
+  rotate: false
+  xy: 1184, 22
+  size: 294, 322
+  orig: 320, 400
+  offset: 13, 0
+  index: 35
+idle_1
+  rotate: false
+  xy: 1480, 23
+  size: 294, 322
+  orig: 320, 400
+  offset: 13, 0
+  index: 3
+idle_1
+  rotate: true
+  xy: 1482, 1674
+  size: 294, 322
+  orig: 320, 400
+  offset: 13, 0
+  index: 34
+idle_1
+  rotate: false
+  xy: 1184, 1646
+  size: 294, 322
+  orig: 320, 400
+  offset: 13, 0
+  index: 5
+idle_1
+  rotate: false
+  xy: 1183, 1322
+  size: 294, 322
+  orig: 320, 400
+  offset: 13, 0
+  index: 33
+idle_1
+  rotate: false
+  xy: 1184, 999
+  size: 294, 321
+  orig: 320, 400
+  offset: 13, 0
+  index: 30
+idle_1
+  rotate: false
+  xy: 1479, 1323
+  size: 294, 321
+  orig: 320, 400
+  offset: 13, 0
+  index: 6
+idle_1
+  rotate: false
+  xy: 1477, 676
+  size: 294, 321
+  orig: 320, 400
+  offset: 13, 0
+  index: 32
+idle_1
+  rotate: false
+  xy: 1480, 1000
+  size: 294, 321
+  orig: 320, 400
+  offset: 13, 0
+  index: 8
+idle_1
+  rotate: false
+  xy: 1482, 353
+  size: 294, 321
+  orig: 320, 400
+  offset: 13, 0
+  index: 31
+idle_2
+  rotate: false
+  xy: 2, 329
+  size: 294, 325
+  orig: 320, 400
+  offset: 13, 0
+  index: 18
+idle_2
+  rotate: false
+  xy: 296, 668
+  size: 294, 323
+  orig: 320, 400
+  offset: 13, 0
+  index: 38
+idle_2
+  rotate: false
+  xy: 591, 1320
+  size: 294, 323
+  orig: 320, 400
+  offset: 13, 0
+  index: 37
+idle_2
+  rotate: false
+  xy: 594, 345
+  size: 294, 323
+  orig: 320, 400
+  offset: 13, 0
+  index: 0
+idle_2
+  rotate: false
+  xy: 888, 20
+  size: 294, 323
+  orig: 320, 400
+  offset: 13, 0
+  index: 39
+idle_2
+  rotate: false
+  xy: 887, 1320
+  size: 294, 323
+  orig: 320, 400
+  offset: 13, 0
+  index: 36
+idle_2
+  rotate: false
+  xy: 888, 670
+  size: 291, 323
+  orig: 320, 400
+  offset: 14, 0
+  index: 9
+idle_2
+  rotate: false
+  xy: 890, 346
+  size: 294, 322
+  orig: 320, 400
+  offset: 13, 0
+  index: 33
+idle_2
+  rotate: false
+  xy: 1186, 347
+  size: 294, 322
+  orig: 320, 400
+  offset: 13, 0
+  index: 35
+working
+  rotate: false
+  xy: 2, 1641
+  size: 292, 327
+  orig: 320, 400
+  offset: 14, 0
+  index: 16
+working
+  rotate: false
+  xy: 2, 1312
+  size: 292, 327
+  orig: 320, 400
+  offset: 14, 0
+  index: 4
+working
+  rotate: false
+  xy: 2, 984
+  size: 292, 326
+  orig: 320, 400
+  offset: 14, 0
+  index: 3
+working
+  rotate: false
+  xy: 2, 656
+  size: 292, 326
+  orig: 320, 400
+  offset: 14, 0
+  index: 17
+working
+  rotate: false
+  xy: 2, 2
+  size: 293, 325
+  orig: 320, 400
+  offset: 13, 0
+  index: 18
+working
+  rotate: false
+  xy: 297, 2
+  size: 293, 325
+  orig: 320, 400
+  offset: 13, 0
+  index: 2
+working
+  rotate: false
+  xy: 296, 1644
+  size: 293, 324
+  orig: 320, 400
+  offset: 13, 0
+  index: 19
+working
+  rotate: false
+  xy: 296, 1318
+  size: 293, 324
+  orig: 320, 400
+  offset: 13, 0
+  index: 1
+working
+  rotate: false
+  xy: 592, 18
+  size: 294, 323
+  orig: 320, 400
+  offset: 13, 0
+  index: 0
+working
+  rotate: false
+  xy: 592, 995
+  size: 294, 323
+  orig: 320, 400
+  offset: 13, 0
+  index: 20
+
+grill_animation3.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+idle_1
+  rotate: false
+  xy: 2, 1609
+  size: 294, 321
+  orig: 320, 400
+  offset: 13, 0
+  index: 7
+idle_1
+  rotate: false
+  xy: 2, 1287
+  size: 294, 320
+  orig: 320, 400
+  offset: 13, 0
+  index: 9
+idle_1
+  rotate: false
+  xy: 298, 1610
+  size: 294, 320
+  orig: 320, 400
+  offset: 13, 0
+  index: 27
+idle_1
+  rotate: false
+  xy: 2, 965
+  size: 294, 320
+  orig: 320, 400
+  offset: 13, 0
+  index: 11
+idle_1
+  rotate: false
+  xy: 298, 1288
+  size: 294, 320
+  orig: 320, 400
+  offset: 13, 0
+  index: 29
+idle_1
+  rotate: false
+  xy: 594, 1610
+  size: 294, 320
+  orig: 320, 400
+  offset: 13, 0
+  index: 26
+idle_1
+  rotate: false
+  xy: 2, 643
+  size: 294, 320
+  orig: 320, 400
+  offset: 13, 0
+  index: 10
+idle_1
+  rotate: false
+  xy: 298, 966
+  size: 294, 320
+  orig: 320, 400
+  offset: 13, 0
+  index: 28
+idle_1
+  rotate: false
+  xy: 594, 1289
+  size: 294, 319
+  orig: 320, 400
+  offset: 13, 0
+  index: 12
+idle_1
+  rotate: false
+  xy: 890, 1611
+  size: 294, 319
+  orig: 320, 400
+  offset: 13, 0
+  index: 25
+idle_1
+  rotate: false
+  xy: 2, 322
+  size: 294, 319
+  orig: 320, 400
+  offset: 13, 0
+  index: 14
+idle_1
+  rotate: false
+  xy: 298, 645
+  size: 294, 319
+  orig: 320, 400
+  offset: 13, 0
+  index: 24
+idle_1
+  rotate: false
+  xy: 594, 968
+  size: 294, 319
+  orig: 320, 400
+  offset: 13, 0
+  index: 13
+idle_1
+  rotate: false
+  xy: 890, 1290
+  size: 294, 319
+  orig: 320, 400
+  offset: 13, 0
+  index: 23
+idle_1
+  rotate: false
+  xy: 1186, 1612
+  size: 294, 318
+  orig: 320, 400
+  offset: 13, 0
+  index: 17
+idle_1
+  rotate: false
+  xy: 2, 2
+  size: 294, 318
+  orig: 320, 400
+  offset: 13, 0
+  index: 22
+idle_1
+  rotate: false
+  xy: 298, 325
+  size: 294, 318
+  orig: 320, 400
+  offset: 13, 0
+  index: 16
+idle_1
+  rotate: false
+  xy: 594, 648
+  size: 294, 318
+  orig: 320, 400
+  offset: 13, 0
+  index: 21
+idle_1
+  rotate: false
+  xy: 890, 970
+  size: 294, 318
+  orig: 320, 400
+  offset: 13, 0
+  index: 15
+idle_1
+  rotate: false
+  xy: 1186, 1292
+  size: 294, 318
+  orig: 320, 400
+  offset: 13, 0
+  index: 20
+idle_1
+  rotate: false
+  xy: 1482, 1613
+  size: 294, 317
+  orig: 320, 400
+  offset: 13, 0
+  index: 19
+idle_1
+  rotate: false
+  xy: 298, 6
+  size: 294, 317
+  orig: 320, 400
+  offset: 13, 0
+  index: 18
+idle_2
+  rotate: false
+  xy: 594, 329
+  size: 292, 317
+  orig: 320, 400
+  offset: 14, 0
+  index: 17
+idle_2
+  rotate: false
+  xy: 890, 651
+  size: 292, 317
+  orig: 320, 400
+  offset: 14, 0
+  index: 16
+idle_2
+  rotate: false
+  xy: 1186, 973
+  size: 290, 317
+  orig: 320, 400
+  offset: 15, 0
+  index: 15
+idle_2
+  rotate: false
+  xy: 1482, 1295
+  size: 290, 316
+  orig: 320, 400
+  offset: 15, 0
+  index: 14
+idle_2
+  rotate: false
+  xy: 594, 11
+  size: 288, 316
+  orig: 320, 400
+  offset: 16, 0
+  index: 12
+idle_2
+  rotate: false
+  xy: 1478, 974
+  size: 287, 316
+  orig: 320, 400
+  offset: 16, 0
+  index: 11
+idle_2
+  rotate: false
+  xy: 884, 11
+  size: 288, 316
+  orig: 320, 400
+  offset: 16, 0
+  index: 13
+idle_2
+  rotate: false
+  xy: 1184, 652
+  size: 286, 316
+  orig: 320, 400
+  offset: 17, 0
+  index: 10

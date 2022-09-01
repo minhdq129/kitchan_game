@@ -1,0 +1,230 @@
+
+ui.png
+size: 2048, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+bg_level
+  rotate: false
+  xy: 833, 422
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+bg_order
+  rotate: true
+  xy: 623, 100
+  size: 177, 133
+  orig: 177, 133
+  offset: 0, 0
+  index: -1
+big_dish
+  rotate: false
+  xy: 2, 6
+  size: 396, 169
+  orig: 400, 169
+  offset: 2, 0
+  index: 2
+big_dish
+  rotate: false
+  xy: 833, 644
+  size: 396, 141
+  orig: 400, 169
+  offset: 2, 0
+  index: 1
+btn_back
+  rotate: true
+  xy: 581, 279
+  size: 548, 167
+  orig: 548, 167
+  offset: 0, 0
+  index: -1
+btn_menu
+  rotate: false
+  xy: 1231, 664
+  size: 197, 121
+  orig: 197, 121
+  offset: 0, 0
+  index: -1
+btn_recipe
+  rotate: true
+  xy: 412, 279
+  size: 548, 167
+  orig: 548, 167
+  offset: 0, 0
+  index: -1
+clock
+  rotate: false
+  xy: 908, 158
+  size: 187, 98
+  orig: 187, 98
+  offset: 0, 0
+  index: -1
+clock_hand
+  rotate: true
+  xy: 833, 795
+  size: 32, 69
+  orig: 32, 69
+  offset: 0, 0
+  index: -1
+decor_bags
+  rotate: true
+  xy: 1681, 734
+  size: 288, 293
+  orig: 294, 400
+  offset: 3, 0
+  index: -1
+decor_barrel
+  rotate: false
+  xy: 412, 2
+  size: 209, 275
+  orig: 294, 400
+  offset: 42, 0
+  index: -1
+dish
+  rotate: true
+  xy: 1267, 474
+  size: 188, 148
+  orig: 198, 169
+  offset: 5, 0
+  index: 2
+dish
+  rotate: false
+  xy: 1430, 672
+  size: 188, 113
+  orig: 188, 188
+  offset: 0, 38
+  index: 1
+dish_invemtory
+  rotate: false
+  xy: 1055, 432
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+game_title
+  rotate: false
+  xy: 2, 829
+  size: 923, 193
+  orig: 923, 193
+  offset: 0, 0
+  index: -1
+icon
+  rotate: false
+  xy: 1620, 732
+  size: 46, 53
+  orig: 46, 53
+  offset: 0, 0
+  index: 2
+icon
+  rotate: false
+  xy: 1209, 212
+  size: 46, 53
+  orig: 46, 53
+  offset: 0, 0
+  index: 1
+icon
+  rotate: false
+  xy: 623, 50
+  size: 43, 48
+  orig: 43, 48
+  offset: 0, 0
+  index: 3
+inventory_bar
+  rotate: false
+  xy: 927, 787
+  size: 752, 235
+  orig: 752, 235
+  offset: 0, 0
+  index: -1
+merchant_menu
+  rotate: false
+  xy: 1273, 304
+  size: 168, 168
+  orig: 168, 168
+  offset: 0, 0
+  index: 1
+point
+  rotate: true
+  xy: 1976, 825
+  size: 197, 66
+  orig: 197, 66
+  offset: 0, 0
+  index: -1
+popup_recipe_bg
+  rotate: false
+  xy: 2, 177
+  size: 408, 650
+  orig: 408, 650
+  offset: 0, 0
+  index: -1
+progress_bar
+  rotate: true
+  xy: 1417, 504
+  size: 158, 16
+  orig: 158, 16
+  offset: 0, 0
+  index: -1
+progress_bg
+  rotate: false
+  xy: 1273, 276
+  size: 168, 26
+  orig: 168, 26
+  offset: 0, 0
+  index: -1
+resource_bar
+  rotate: false
+  xy: 908, 112
+  size: 139, 44
+  orig: 139, 44
+  offset: 0, 0
+  index: -1
+resource_panel
+  rotate: true
+  xy: 750, 286
+  size: 541, 81
+  orig: 541, 81
+  offset: 0, 0
+  index: -1
+shoping_item_frame
+  rotate: false
+  xy: 758, 108
+  size: 148, 148
+  orig: 148, 148
+  offset: 0, 0
+  index: -1
+shopping_bag
+  rotate: true
+  xy: 1059, 267
+  size: 163, 212
+  orig: 163, 212
+  offset: 0, 0
+  index: -1
+star
+  rotate: true
+  xy: 908, 2
+  size: 108, 109
+  orig: 108, 109
+  offset: 0, 0
+  index: -1
+star_empty
+  rotate: true
+  xy: 1097, 156
+  size: 109, 110
+  orig: 109, 110
+  offset: 0, 0
+  index: -1
+tool_angry
+  rotate: false
+  xy: 1976, 756
+  size: 61, 67
+  orig: 80, 80
+  offset: 12, 5
+  index: -1
+trash_bin
+  rotate: true
+  xy: 833, 258
+  size: 162, 224
+  orig: 162, 224
+  offset: 0, 0
+  index: -1

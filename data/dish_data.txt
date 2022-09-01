@@ -1,0 +1,23 @@
+001,150,Jammy Egg Toats
+002,100,Omlette & Greens
+003,100,Opla Egg
+006,250,Bacon Gruyére Breakfast "Pie"
+007,250,Tomato-Curry
+008,250,Beef Burger
+011,150,Meatballs
+012,200,Sphagetti & Meatballs
+015,250,Steak Diane
+018,250,Chicken Fried Rice
+020,250,Chicken Curry
+024,150,Baked Asparagus fillet
+026,150,Fish Salad
+027,150,Seafood Salad
+029,100,Fried Shrimp
+030,100,Lobster Tails
+039,250,Sausages Grilled
+046,150,Opla Bacon Cups
+047,100,Bacon Wrapped Asparagus
+052,200,Chiken Mushroom
+053,200,Carrot Salad
+054,200,Stir Fry Vegetables
+055,150,Sausage & Eggs

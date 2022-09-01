@@ -1,0 +1,699 @@
+
+ingredient.png
+size: 2048, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+001
+  rotate: false
+  xy: 1031, 507
+  size: 159, 129
+  orig: 159, 129
+  offset: 0, 0
+  index: -1
+002
+  rotate: false
+  xy: 852, 517
+  size: 177, 132
+  orig: 177, 132
+  offset: 0, 0
+  index: -1
+003
+  rotate: false
+  xy: 1025, 94
+  size: 164, 91
+  orig: 164, 91
+  offset: 0, 0
+  index: -1
+006
+  rotate: false
+  xy: 1072, 748
+  size: 173, 132
+  orig: 173, 132
+  offset: 0, 0
+  index: -1
+007
+  rotate: false
+  xy: 709, 208
+  size: 149, 120
+  orig: 149, 120
+  offset: 0, 0
+  index: -1
+008
+  rotate: false
+  xy: 699, 480
+  size: 151, 169
+  orig: 151, 169
+  offset: 0, 0
+  index: -1
+011
+  rotate: false
+  xy: 860, 264
+  size: 147, 140
+  orig: 147, 140
+  offset: 0, 0
+  index: -1
+012
+  rotate: false
+  xy: 1072, 882
+  size: 175, 140
+  orig: 175, 140
+  offset: 0, 0
+  index: -1
+015
+  rotate: false
+  xy: 1786, 909
+  size: 176, 113
+  orig: 176, 113
+  offset: 0, 0
+  index: -1
+018
+  rotate: false
+  xy: 172, 89
+  size: 165, 101
+  orig: 165, 101
+  offset: 0, 0
+  index: -1
+020
+  rotate: false
+  xy: 1025, 187
+  size: 159, 103
+  orig: 159, 103
+  offset: 0, 0
+  index: -1
+024
+  rotate: false
+  xy: 1072, 638
+  size: 173, 108
+  orig: 173, 108
+  offset: 0, 0
+  index: -1
+026
+  rotate: false
+  xy: 1022, 406
+  size: 166, 99
+  orig: 166, 99
+  offset: 0, 0
+  index: -1
+027
+  rotate: false
+  xy: 2, 23
+  size: 165, 132
+  orig: 165, 132
+  offset: 0, 0
+  index: -1
+029
+  rotate: false
+  xy: 1249, 890
+  size: 173, 132
+  orig: 173, 132
+  offset: 0, 0
+  index: -1
+030
+  rotate: false
+  xy: 1602, 912
+  size: 182, 110
+  orig: 182, 110
+  offset: 0, 0
+  index: -1
+039
+  rotate: false
+  xy: 541, 212
+  size: 166, 113
+  orig: 166, 113
+  offset: 0, 0
+  index: -1
+046
+  rotate: false
+  xy: 472, 2
+  size: 130, 116
+  orig: 130, 116
+  offset: 0, 0
+  index: -1
+047
+  rotate: false
+  xy: 169, 4
+  size: 134, 83
+  orig: 134, 83
+  offset: 0, 0
+  index: -1
+052
+  rotate: false
+  xy: 860, 156
+  size: 163, 106
+  orig: 163, 106
+  offset: 0, 0
+  index: -1
+053
+  rotate: false
+  xy: 351, 120
+  size: 157, 90
+  orig: 157, 90
+  offset: 0, 0
+  index: -1
+054
+  rotate: false
+  xy: 852, 406
+  size: 168, 109
+  orig: 168, 109
+  offset: 0, 0
+  index: -1
+055
+  rotate: false
+  xy: 1424, 901
+  size: 176, 121
+  orig: 176, 121
+  offset: 0, 0
+  index: -1
+apple
+  rotate: false
+  xy: 1555, 793
+  size: 108, 106
+  orig: 108, 106
+  offset: 0, 0
+  index: -1
+asparagus
+  rotate: false
+  xy: 1191, 63
+  size: 125, 123
+  orig: 125, 123
+  offset: 0, 0
+  index: -1
+bacon
+  rotate: true
+  xy: 1964, 904
+  size: 118, 77
+  orig: 118, 77
+  offset: 0, 0
+  index: -1
+beef
+  rotate: true
+  xy: 1625, 318
+  size: 119, 97
+  orig: 119, 97
+  offset: 0, 0
+  index: -1
+bell_pepper
+  rotate: true
+  xy: 1310, 793
+  size: 95, 112
+  orig: 95, 112
+  offset: 0, 0
+  index: -1
+bg_order
+  rotate: false
+  xy: 172, 192
+  size: 177, 133
+  orig: 177, 133
+  offset: 0, 0
+  index: -1
+boiled_egg
+  rotate: true
+  xy: 1301, 249
+  size: 88, 101
+  orig: 88, 101
+  offset: 0, 0
+  index: -1
+boiled_spaghetti
+  rotate: true
+  xy: 1812, 186
+  size: 122, 72
+  orig: 122, 72
+  offset: 0, 0
+  index: -1
+bread
+  rotate: false
+  xy: 1522, 554
+  size: 111, 120
+  orig: 111, 120
+  offset: 0, 0
+  index: -1
+broccoli
+  rotate: true
+  xy: 1509, 676
+  size: 115, 106
+  orig: 115, 106
+  offset: 0, 0
+  index: -1
+carrot
+  rotate: false
+  xy: 1176, 292
+  size: 123, 101
+  orig: 123, 101
+  offset: 0, 0
+  index: -1
+cheese
+  rotate: true
+  xy: 1624, 204
+  size: 112, 96
+  orig: 112, 96
+  offset: 0, 0
+  index: -1
+chicken
+  rotate: true
+  xy: 715, 2
+  size: 108, 124
+  orig: 108, 124
+  offset: 0, 0
+  index: -1
+chop_icon
+  rotate: true
+  xy: 957, 102
+  size: 52, 66
+  orig: 70, 70
+  offset: 9, 3
+  index: -1
+chopped_apple
+  rotate: true
+  xy: 1910, 788
+  size: 114, 117
+  orig: 114, 117
+  offset: 0, 0
+  index: -1
+chopped_carrot
+  rotate: true
+  xy: 1907, 673
+  size: 113, 117
+  orig: 113, 117
+  offset: 0, 0
+  index: -1
+cooked_asparagus
+  rotate: true
+  xy: 1310, 429
+  size: 126, 94
+  orig: 126, 94
+  offset: 0, 0
+  index: -1
+cooked_grounded_fish
+  rotate: false
+  xy: 1836, 563
+  size: 114, 108
+  orig: 114, 108
+  offset: 0, 0
+  index: -1
+cooked_mushroom
+  rotate: false
+  xy: 510, 120
+  size: 134, 90
+  orig: 134, 90
+  offset: 0, 0
+  index: -1
+cooked_rice
+  rotate: true
+  xy: 1318, 123
+  size: 124, 76
+  orig: 124, 76
+  offset: 0, 0
+  index: -1
+cooked_sliced_chicken
+  rotate: false
+  xy: 1410, 554
+  size: 110, 120
+  orig: 110, 120
+  offset: 0, 0
+  index: -1
+cut_icon
+  rotate: false
+  xy: 860, 112
+  size: 52, 42
+  orig: 70, 70
+  offset: 9, 13
+  index: -1
+dish
+  rotate: false
+  xy: 351, 212
+  size: 188, 113
+  orig: 188, 188
+  offset: 0, 38
+  index: 1
+egg
+  rotate: true
+  xy: 1310, 339
+  size: 88, 101
+  orig: 88, 101
+  offset: 0, 0
+  index: -1
+equal
+  rotate: false
+  xy: 1372, 108
+  size: 22, 13
+  orig: 24, 24
+  offset: 1, 6
+  index: -1
+fish
+  rotate: false
+  xy: 1190, 395
+  size: 118, 105
+  orig: 118, 105
+  offset: 0, 0
+  index: -1
+fish_fillet
+  rotate: false
+  xy: 841, 2
+  size: 114, 108
+  orig: 114, 108
+  offset: 0, 0
+  index: -1
+french_fries
+  rotate: true
+  xy: 1947, 444
+  size: 117, 99
+  orig: 117, 99
+  offset: 0, 0
+  index: -1
+fried_bacon
+  rotate: true
+  xy: 1733, 676
+  size: 108, 97
+  orig: 108, 97
+  offset: 0, 0
+  index: -1
+grill_icon
+  rotate: false
+  xy: 1318, 64
+  size: 52, 57
+  orig: 70, 70
+  offset: 9, 6
+  index: -1
+grilled_bacon
+  rotate: false
+  xy: 1424, 793
+  size: 129, 106
+  orig: 129, 106
+  offset: 0, 0
+  index: -1
+grounded_beef
+  rotate: false
+  xy: 1378, 676
+  size: 129, 115
+  orig: 129, 115
+  offset: 0, 0
+  index: -1
+grounded_fish
+  rotate: false
+  xy: 1617, 676
+  size: 114, 108
+  orig: 114, 108
+  offset: 0, 0
+  index: -1
+hambuger_buns
+  rotate: false
+  xy: 1406, 440
+  size: 113, 112
+  orig: 113, 112
+  offset: 0, 0
+  index: -1
+icon
+  rotate: false
+  xy: 1939, 389
+  size: 46, 53
+  orig: 46, 53
+  offset: 0, 0
+  index: 2
+icon
+  rotate: false
+  xy: 1987, 389
+  size: 46, 53
+  orig: 46, 53
+  offset: 0, 0
+  index: 1
+icon
+  rotate: false
+  xy: 1951, 339
+  size: 43, 48
+  orig: 43, 48
+  offset: 0, 0
+  index: 3
+lettuce
+  rotate: false
+  xy: 1413, 328
+  size: 109, 110
+  orig: 109, 110
+  offset: 0, 0
+  index: -1
+lobster
+  rotate: true
+  xy: 1665, 786
+  size: 124, 117
+  orig: 124, 117
+  offset: 0, 0
+  index: -1
+meatball
+  rotate: true
+  xy: 1634, 439
+  size: 108, 100
+  orig: 108, 100
+  offset: 0, 0
+  index: -1
+merchant_menu
+  rotate: false
+  xy: 2, 157
+  size: 168, 168
+  orig: 168, 168
+  offset: 0, 0
+  index: 1
+merchant_menu
+  rotate: true
+  xy: 646, 120
+  size: 90, 39
+  orig: 90, 39
+  offset: 0, 0
+  index: 2
+mushroom
+  rotate: true
+  xy: 1952, 566
+  size: 105, 94
+  orig: 105, 94
+  offset: 0, 0
+  index: -1
+omelette
+  rotate: false
+  xy: 1009, 292
+  size: 165, 112
+  orig: 165, 112
+  offset: 0, 0
+  index: -1
+opla
+  rotate: false
+  xy: 1396, 68
+  size: 127, 71
+  orig: 127, 71
+  offset: 0, 0
+  index: -1
+pan_icon
+  rotate: false
+  xy: 1901, 335
+  size: 48, 48
+  orig: 70, 70
+  offset: 11, 11
+  index: -1
+plus
+  rotate: true
+  xy: 1284, 532
+  size: 23, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+potato
+  rotate: true
+  xy: 1722, 200
+  size: 111, 88
+  orig: 111, 88
+  offset: 0, 0
+  index: -1
+rice
+  rotate: false
+  xy: 1396, 141
+  size: 124, 87
+  orig: 124, 87
+  offset: 0, 0
+  index: -1
+roasted_fish_fillet
+  rotate: true
+  xy: 1837, 447
+  size: 114, 108
+  orig: 114, 108
+  offset: 0, 0
+  index: -1
+roasted_grounded_beef
+  rotate: false
+  xy: 1247, 676
+  size: 129, 115
+  orig: 129, 115
+  offset: 0, 0
+  index: -1
+roasted_lobster
+  rotate: true
+  xy: 1901, 385
+  size: 60, 36
+  orig: 60, 36
+  offset: 0, 0
+  index: -1
+sausage
+  rotate: false
+  xy: 1521, 443
+  size: 111, 109
+  orig: 111, 109
+  offset: 0, 0
+  index: -1
+shop_deco
+  rotate: false
+  xy: 2, 327
+  size: 695, 695
+  orig: 695, 695
+  offset: 0, 0
+  index: -1
+shop_deco_small
+  rotate: false
+  xy: 699, 651
+  size: 371, 371
+  orig: 371, 371
+  offset: 0, 0
+  index: -1
+shoping_item_frame
+  rotate: false
+  xy: 699, 330
+  size: 148, 148
+  orig: 148, 148
+  offset: 0, 0
+  index: -1
+shrimp
+  rotate: true
+  xy: 1635, 549
+  size: 125, 104
+  orig: 125, 104
+  offset: 0, 0
+  index: -1
+sliced_bell_pepper
+  rotate: true
+  xy: 1736, 434
+  size: 111, 99
+  orig: 111, 99
+  offset: 0, 0
+  index: -1
+sliced_bread
+  rotate: true
+  xy: 1784, 798
+  size: 109, 124
+  orig: 109, 124
+  offset: 0, 0
+  index: -1
+sliced_broccoli
+  rotate: false
+  xy: 604, 2
+  size: 109, 116
+  orig: 109, 116
+  offset: 0, 0
+  index: -1
+sliced_carrot
+  rotate: false
+  xy: 1404, 230
+  size: 118, 96
+  orig: 118, 96
+  offset: 0, 0
+  index: -1
+sliced_chicken
+  rotate: false
+  xy: 1186, 188
+  size: 112, 102
+  orig: 112, 102
+  offset: 0, 0
+  index: -1
+sliced_lettuce
+  rotate: true
+  xy: 1741, 547
+  size: 127, 93
+  orig: 127, 93
+  offset: 0, 0
+  index: -1
+sliced_lobster
+  rotate: false
+  xy: 1284, 557
+  size: 124, 117
+  orig: 124, 117
+  offset: 0, 0
+  index: -1
+sliced_mushroom
+  rotate: true
+  xy: 1192, 502
+  size: 134, 90
+  orig: 134, 90
+  offset: 0, 0
+  index: -1
+sliced_potato
+  rotate: true
+  xy: 1524, 324
+  size: 117, 99
+  orig: 117, 99
+  offset: 0, 0
+  index: -1
+sliced_tomato
+  rotate: true
+  xy: 1832, 676
+  size: 120, 73
+  orig: 120, 73
+  offset: 0, 0
+  index: -1
+spaghetti
+  rotate: false
+  xy: 339, 2
+  size: 131, 116
+  orig: 131, 116
+  offset: 0, 0
+  index: -1
+spinach
+  rotate: false
+  xy: 957, 3
+  size: 124, 89
+  orig: 124, 89
+  offset: 0, 0
+  index: -1
+steak
+  rotate: true
+  xy: 1724, 313
+  size: 119, 97
+  orig: 119, 97
+  offset: 0, 0
+  index: -1
+stew_icon
+  rotate: true
+  xy: 1245, 13
+  size: 48, 52
+  orig: 70, 70
+  offset: 11, 8
+  index: -1
+toasted_bread
+  rotate: false
+  xy: 715, 112
+  size: 143, 94
+  orig: 143, 94
+  offset: 0, 0
+  index: -1
+toasted_sausage
+  rotate: false
+  xy: 1083, 11
+  size: 106, 81
+  orig: 106, 81
+  offset: 0, 0
+  index: -1
+tomato
+  rotate: false
+  xy: 1524, 231
+  size: 98, 91
+  orig: 98, 91
+  offset: 0, 0
+  index: -1
+tomato_sauce
+  rotate: true
+  xy: 1823, 310
+  size: 122, 76
+  orig: 122, 76
+  offset: 0, 0
+  index: -1
+wok_icon
+  rotate: false
+  xy: 1191, 11
+  size: 52, 50
+  orig: 70, 70
+  offset: 9, 9
+  index: -1
