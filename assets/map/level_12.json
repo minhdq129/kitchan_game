@@ -87,7 +87,7 @@
         {
          "name":"orders",
          "type":"string",
-         "value":"001,012"
+         "value":"[{\"startTime\":5,\"duration\":30,\"dish\":\"001\"},{\"startTime\":10,\"duration\":40,\"dish\":\"012\"},{\"startTime\":20,\"duration\":30,\"dish\":\"001\"},{\"startTime\":50,\"duration\":40,\"dish\":\"012\"},{\"startTime\":50,\"duration\":25,\"dish\":\"012\"},{\"startTime\":50,\"duration\":30,\"dish\":\"001\"},{\"startTime\":80,\"duration\":25,\"dish\":\"012\"},{\"startTime\":90,\"duration\":30,\"dish\":\"001\"},{\"startTime\":90,\"duration\":40,\"dish\":\"012\"},{\"startTime\":120,\"duration\":30,\"dish\":\"001\"},{\"startTime\":130,\"duration\":40,\"dish\":\"012\"},{\"startTime\":130,\"duration\":40,\"dish\":\"012\"}]"
         }, 
         {
          "name":"shop_items",
@@ -110,11 +110,11 @@
          "value":180
         }],
  "renderorder":"right-down",
- "tiledversion":"1.8.4",
+ "tiledversion":"1.7.0",
  "tileheight":50,
  "tilesets":[],
  "tilewidth":50,
  "type":"map",
- "version":"1.8",
+ "version":"1.6",
  "width":10
 }

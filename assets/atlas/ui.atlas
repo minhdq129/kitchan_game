@@ -55,7 +55,7 @@ btn_recipe
   index: -1
 clock
   rotate: false
-  xy: 908, 158
+  xy: 758, 158
   size: 187, 98
   orig: 187, 98
   offset: 0, 0
@@ -111,25 +111,39 @@ game_title
   index: -1
 icon
   rotate: false
-  xy: 1620, 732
+  xy: 1169, 212
   size: 46, 53
   orig: 46, 53
   offset: 0, 0
   index: 2
 icon
   rotate: false
-  xy: 1209, 212
+  xy: 686, 45
   size: 46, 53
   orig: 46, 53
   offset: 0, 0
   index: 1
 icon
   rotate: false
-  xy: 623, 50
+  xy: 1169, 162
   size: 43, 48
   orig: 43, 48
   offset: 0, 0
   index: 3
+icon_lock
+  rotate: false
+  xy: 1620, 721
+  size: 46, 64
+  orig: 64, 64
+  offset: 9, 0
+  index: 1
+icon_lock
+  rotate: false
+  xy: 1976, 768
+  size: 46, 55
+  orig: 64, 64
+  offset: 9, 5
+  index: 0
 inventory_bar
   rotate: false
   xy: 927, 787
@@ -137,13 +151,6 @@ inventory_bar
   orig: 752, 235
   offset: 0, 0
   index: -1
-merchant_menu
-  rotate: false
-  xy: 1273, 304
-  size: 168, 168
-  orig: 168, 168
-  offset: 0, 0
-  index: 1
 point
   rotate: true
   xy: 1976, 825
@@ -159,22 +166,22 @@ popup_recipe_bg
   offset: 0, 0
   index: -1
 progress_bar
-  rotate: true
-  xy: 1417, 504
+  rotate: false
+  xy: 758, 112
   size: 158, 16
   orig: 158, 16
   offset: 0, 0
   index: -1
 progress_bg
   rotate: false
-  xy: 1273, 276
+  xy: 758, 130
   size: 168, 26
   orig: 168, 26
   offset: 0, 0
   index: -1
 resource_bar
   rotate: false
-  xy: 908, 112
+  xy: 1273, 278
   size: 139, 44
   orig: 139, 44
   offset: 0, 0
@@ -188,7 +195,7 @@ resource_panel
   index: -1
 shoping_item_frame
   rotate: false
-  xy: 758, 108
+  xy: 1273, 324
   size: 148, 148
   orig: 148, 148
   offset: 0, 0
@@ -201,22 +208,22 @@ shopping_bag
   offset: 0, 0
   index: -1
 star
-  rotate: true
-  xy: 908, 2
+  rotate: false
+  xy: 1059, 156
   size: 108, 109
   orig: 108, 109
   offset: 0, 0
   index: -1
 star_empty
   rotate: true
-  xy: 1097, 156
+  xy: 947, 147
   size: 109, 110
   orig: 109, 110
   offset: 0, 0
   index: -1
 tool_angry
   rotate: false
-  xy: 1976, 756
+  xy: 623, 31
   size: 61, 67
   orig: 80, 80
   offset: 12, 5

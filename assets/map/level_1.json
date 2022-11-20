@@ -43,7 +43,7 @@
         {
          "name":"orders",
          "type":"string",
-         "value":"003"
+         "value":"[{\"dish\":\"003\",\"startTime\":0,\"duration\":25},{\"dish\":\"003\",\"startTime\":20,\"duration\":15},{\"dish\":\"003\",\"startTime\":30,\"duration\":15},{\"dish\":\"003\",\"startTime\":35,\"duration\":15},{\"dish\":\"003\",\"startTime\":45,\"duration\":15},{\"dish\":\"003\",\"startTime\":45,\"duration\":15}]\n"
         }, 
         {
          "name":"shop_items",
@@ -58,7 +58,7 @@
         {
          "name":"star_rating_score",
          "type":"string",
-         "value":"125,180,250"
+         "value":"150,200,300"
         }, 
         {
          "name":"total_time",
@@ -66,11 +66,11 @@
          "value":"60"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.8.4",
+ "tiledversion":"1.7.0",
  "tileheight":50,
  "tilesets":[],
  "tilewidth":50,
  "type":"map",
- "version":"1.8",
+ "version":"1.6",
  "width":10
 }

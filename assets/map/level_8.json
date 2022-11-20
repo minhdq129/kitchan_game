@@ -65,7 +65,7 @@
         {
          "name":"orders",
          "type":"string",
-         "value":"012"
+         "value":"[{\"startTime\":5,\"duration\":45,\"dish\":\"012\"},{\"startTime\":30,\"duration\":40,\"dish\":\"012\"},{\"startTime\":30,\"duration\":50,\"dish\":\"012\"},{\"startTime\":80,\"duration\":40,\"dish\":\"012\"},{\"startTime\":80,\"duration\":40,\"dish\":\"012\"},{\"startTime\":130,\"duration\":40,\"dish\":\"012\"},{\"startTime\":130,\"duration\":30,\"dish\":\"012\"},{\"startTime\":130,\"duration\":40,\"dish\":\"012\"},{\"startTime\":170,\"duration\":40,\"dish\":\"012\"},{\"startTime\":170,\"duration\":50,\"dish\":\"012\"}]"
         }, 
         {
          "name":"shop_items",
@@ -85,14 +85,14 @@
         {
          "name":"total_time",
          "type":"int",
-         "value":150
+         "value":250
         }],
  "renderorder":"right-down",
- "tiledversion":"1.8.4",
+ "tiledversion":"1.7.0",
  "tileheight":50,
  "tilesets":[],
  "tilewidth":50,
  "type":"map",
- "version":"1.8",
+ "version":"1.6",
  "width":10
 }

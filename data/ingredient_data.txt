@@ -1,7 +1,7 @@
-apple,15,2
-asparagus,15,2
-bacon,15,1
-beef,5,1
+apple,5,2
+asparagus,5,2
+bacon,5,1
+beef,3,1
 bell_pepper,10,2
 bread,3,0
 broccoli,15,2
